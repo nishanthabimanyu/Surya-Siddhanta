@@ -210,13 +210,6 @@ This is a student research project, and we welcome contributions from:
 -   Astronomy enthusiasts and developers
 -   Digital preservation specialists
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details. Academic use is encouraged; please cite this project in any publications.
-
----
 
 > *"We stand on the shoulders of giants—both ancient and modern. This project bridges 1,500 years of astronomical knowledge through the power of computation."*
 
