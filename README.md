@@ -1,6 +1,6 @@
-# Surya-Siddhanta
-A 3-Month Computational Archaeology Project • Student-Led Research • OCR-Recovered Indian Mathematics
+
 # 🌟 Surya Siddhanta: A Digital Resurrection of Ancient Astronomy
+A 3-Month Computational Archaeology Project • Student-Led Research • OCR-Recovered Indian Mathematics
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
 [![Research Grade](https://img.shields.io/badge/Status-Research%20Grade-orange.svg)](#)
