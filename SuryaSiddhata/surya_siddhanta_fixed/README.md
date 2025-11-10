@@ -1,7 +1,6 @@
 # 🌟 Surya Siddhanta: A Digital Resurrection of Ancient Astronomy
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Research Grade](https://img.shields.io/badge/Status-Research%20Grade-orange.svg)](#)
 [![Historical Accuracy](https://img.shields.io/badge/Accuracy-Historically%20Verified-green.svg)](#)
 
