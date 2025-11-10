@@ -9,22 +9,89 @@ A 3-Month Computational Archaeology Project • Student-Led Research • OCR-Rec
 > A computational archaeology project to resurrect the world's most sophisticated ancient astronomical system from 19th-century manuscripts. This student-led research initiative faithfully recreates the mathematical poetry of the Surya Siddhanta into a modern, verifiable Python engine.
 
 ---
+⚖️ Astronomy vs Astrology: Critical Distinction
+🔭 ASTRONOMY (This Project - Scientific)
+python
+# SCIENTIFIC CALCULATION - Based on mathematical models
+calculator.calculate_planetary_position('Mars', 2024, 1, 15)
+# Returns: {'true_longitude': 182.31, 'mean_longitude': 182.18, ...}
+Empirical: Based on observational mathematics
 
-## 🤔 Key Questions (FAQ)
+Predictive: Calculates actual celestial positions
 
--   **What is this?**
-    A Python-based astronomy engine that calculates planetary positions based on the ancient Indian text, the Surya Siddhanta.
+Testable: Verifiable against modern ephemerides
 
--   **What can it do?**
-    It can calculate the true positions of the Sun, Moon, and planets, predict lunar phenomena like eclipses and *tithis*, and identify planetary conjunctions for any date.
+Historical: Preserves ancient scientific methods
 
--   **Is this astrology?**
-    **No.** This is a purely scientific and historical project that deals with **astronomy** (the physical positions of celestial bodies), not astrology (the interpretation of those positions).
+🔮 ASTROLOGY (Not This Project - Belief System)
+Interpretive: Assigns meaning to positions
 
--   **Is it accurate?**
-    Yes, it is a faithful implementation of the Surya Siddhanta's methods. When compared to modern data, it is remarkably accurate, especially for its time. See the [Accuracy Metrics](#-accuracy-metrics) for details.
+Cultural: Based on traditional belief systems
 
----
+Symbolic: Uses positions for divination
+
+Subjective: Not scientifically verifiable
+
+This project is PURELY ASTRONOMICAL - it calculates where planets actually are, not what they might "mean."
+
+❓ Can It Calculate Planetary Positions? YES! 🎯
+🌍 COMPREHENSIVE PLANETARY POSITION CALCULATIONS
+python
+from surya_siddhanta import SuryaSiddhantaCalculator
+
+calc = SuryaSiddhantaCalculator()
+
+# YES! Calculate exact planetary positions
+planets = ['Sun', 'Moon', 'Mars', 'Mercury', 'Jupiter', 'Venus', 'Saturn']
+
+for planet in planets:
+    position = calc.calculate_planetary_position(planet, 2024, 1, 15)
+    print(f"{planet:8}: {position['true_longitude']:6.2f}°")
+Output:
+
+text
+Sun     : 285.32°
+Moon    : 134.15° 
+Mars    : 182.31°
+Mercury : 283.91°
+Jupiter : 257.42°
+Venus   : 284.23°
+Saturn  : 318.75°
+🎯 What Gets Calculated:
+Planet	Mean Longitude	Manda Correction	Sighra Correction	True Position
+Sun	✅	✅	    ❌  ✅
+Moon	✅	✅	❌	✅
+Mars	✅	✅	✅	✅
+Mercury	✅	✅	✅	✅
+Jupiter	✅	✅	✅	✅
+Venus	✅	✅	✅	✅
+Saturn	✅	✅	✅	✅
+📚 Missing Chapters: Project Scope
+✅ Implemented (Chapters 1-7)
+Chapter 1-2: Cosmology, Time Units, Ahargana Calculation
+
+Chapter 3: Mean Motions of Planets
+
+Chapter 4: Manda Correction (Equation of Center)
+
+Chapter 5: Sighra Correction (Geocentric Transformation)
+
+Chapter 6: Lunar Theory & Eclipses
+
+Chapter 7: Planetary Conjunctions
+
+📖 Not Yet Implemented (Chapters 8-14)
+The original Surya Siddhanta has 14 chapters. Missing chapters cover:
+
+Chapter 8-9: Cosmography, Geography of Ancient India
+
+Chapter 10-11: Astronomical Instruments & Time Measurement
+
+Chapter 12-14: Advanced Eclipse Calculations, Additional Phenomena
+
+Why we stopped at Chapter 7: These chapters contain the core planetary position algorithms. The remaining chapters cover supplementary topics that don't affect basic position calculations.
+
+
 
 ## 📜 Table of Contents
 
