@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: surya_siddhanta
+Version: 1.0.0
+Summary: A rigorously validated Python implementation of the ancient Indian astronomical text Surya Siddhanta.
+Home-page: https://github.com/your_username/surya_siddhanta_fixed
+Author: Surya Siddhanta Project
+Author-email: surya-siddhanta@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: pytest>=6.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# Surya Siddhanta
+
+This project is an implementation of the Surya Siddhanta, an ancient Indian astronomical text.
