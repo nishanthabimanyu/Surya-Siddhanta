@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/23457925/README.md)
+
 # 🌟 Surya Siddhanta Astronomy: Digital Resurrection of Ancient Indian Astronomy
 
 > **A 3-Month Computational Archaeology Project • Student-Led Research • OCR-Recovered Mathematics**
@@ -406,13 +406,6 @@ This is a **student research project** welcoming:
 3. **Visualization tools** for ancient vs modern comparisons
 4. **Educational materials** for classroom use
 
----
-
-## 📜 License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
-**Academic Use Encouraged** - Please cite this project in research publications.
 
 ---
 
@@ -425,14 +418,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-## 📬 Contact
-
-**Student Researcher**: [Your Name]  
-**Institution**: [Your University/Organization]  
-**Email**: [Your Email]  
-**Project Repository**: https://github.com/yourusername/surya-siddhanta-astronomy
-
----
 
 > **"We stand on the shoulders of giants - both ancient and modern. This project bridges 1,500 years of astronomical knowledge through the power of computation."**
 
