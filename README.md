@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/23479757/README.md)
-# 🌟 Surya Siddhanta: An Ancient Astronomical System Reborn in Code
+# 🌟 Surya Siddhanta - An Ancient Astronomical System By Indian Astronomers based on Pure Obersavtion and Complex Mathematics 
 
 > **A computational resurrection of one of history's most sophisticated astronomical texts, translated from a 19th-century manuscript into a precise and verifiable Python library.**
 
