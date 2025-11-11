@@ -36,8 +36,8 @@ Get up and running in three simple steps.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/surya-siddhanta-astronomy.git
-cd surya-siddhanta-astronomy
+git clone https://github.com/nishnathabimanyu001/surya-siddhanta-astronomy.git
+cd SuryaSiddhanta
 
 # 2. Install dependencies
 pip install -r requirements.txt
