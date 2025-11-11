@@ -4,7 +4,6 @@
 > **A 3-Month Computational Archaeology Project • Student-Led Research • OCR-Recovered Mathematics**
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Research Grade](https://img.shields.io/badge/Research-Grade-orange)](https://github.com)
 [![Historical Accuracy](https://img.shields.io/badge/Historical-Accuracy-brightgreen)](https://github.com)
 
